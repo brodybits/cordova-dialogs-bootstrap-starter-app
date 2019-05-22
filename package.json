@@ -1,5 +1,5 @@
 {
-  "name": "cordova-dialogs-bootstrap-test",
+  "name": "cordova-dialogs-bootstrap-starter-app",
   "version": "0.1.0",
   "description": "Cordova dialogs bootstrap test app: template to play with Cordova dialogs.",
   "scripts": {
