@@ -4,7 +4,7 @@
     <description>
         Cordova dialogs bootstrap test app: template to play with Cordova dialogs.
     </description>
-    <author email="brodybits@litehelpers.net" href="https://github.com/brodybits">
+    <author email="chris@brody.consulting" href="https://github.com/brodybits">
         @brodybits (Christopher J. Brody aka Chris Brody)
     </author>
     <content src="index.html" />
